@@ -1,0 +1,35 @@
+site_name: Hui's
+site_url: https://huistorical.github.io
+site_author: Hui
+site_description: Business Intelligence & Data Science Projects
+
+theme:
+  name: material
+  palette:
+    scheme: default       
+    primary: blue-grey    
+    accent: teal          
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Python:
+      - Project 1: projects/python_project1.md
+      - Project 2: projects/python_project2.md
+  - Business Intelligence:
+      - Project 1: projects/bi_project1.md
+      - Project 2: projects/bi_project2.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.details    
