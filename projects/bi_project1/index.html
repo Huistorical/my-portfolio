@@ -67,7 +67,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue-grey" data-md-color-accent="teal">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -76,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#sales-analysis-case" class="md-skip">
+        <a href="#trendora-rfm-customer-segmentation-analysis" class="md-skip">
           Skip to content
         </a>
       
@@ -433,18 +433,36 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#case-background" class="md-nav__link">
+  <a href="#project-overview" class="md-nav__link">
     <span class="md-ellipsis">
-      Case Background
+      🛍️ Project Overview
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#dashboard" class="md-nav__link">
+  <a href="#business-objective" class="md-nav__link">
     <span class="md-ellipsis">
-      Dashboard
+      🎯 Business Objective
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#problem-solving-framework-4w1h" class="md-nav__link">
+    <span class="md-ellipsis">
+      🧭 Problem-Solving Framework (4W1H)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-source" class="md-nav__link">
+    <span class="md-ellipsis">
+      🗂️ Data Source
     </span>
   </a>
   
@@ -547,18 +565,36 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#case-background" class="md-nav__link">
+  <a href="#project-overview" class="md-nav__link">
     <span class="md-ellipsis">
-      Case Background
+      🛍️ Project Overview
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#dashboard" class="md-nav__link">
+  <a href="#business-objective" class="md-nav__link">
     <span class="md-ellipsis">
-      Dashboard
+      🎯 Business Objective
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#problem-solving-framework-4w1h" class="md-nav__link">
+    <span class="md-ellipsis">
+      🧭 Problem-Solving Framework (4W1H)
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#data-source" class="md-nav__link">
+    <span class="md-ellipsis">
+      🗂️ Data Source
     </span>
   </a>
   
@@ -589,19 +625,81 @@
 
 
 
-<h1 id="sales-analysis-case">Sales Analysis Case ✨<a class="headerlink" href="#sales-analysis-case" title="Permanent link">&para;</a></h1>
-<h2 id="case-background">Case Background<a class="headerlink" href="#case-background" title="Permanent link">&para;</a></h2>
-<p>As a BI analyst at <strong>Superstore</strong>, you're tasked with leveraging data from the company's operations to drive strategic decision-making. Using the Superstore dataset, you'll:</p>
-<ul>
-<li>Analyze sales performance across regions, states, and product categories  </li>
-<li>Track sales trends over time  </li>
-<li>Identify top manufacturers by sales volume  </li>
-</ul>
-<p>Your goal is to provide actionable insights to optimize revenue, operations, and customer satisfaction.  </p>
-<h2 id="dashboard">Dashboard<a class="headerlink" href="#dashboard" title="Permanent link">&para;</a></h2>
-<p><a href="https://public.tableau.com/app/profile/hui.li1478/viz/Superstore_salesanalysis_2/SuperstoreSalesDashboard">Click here to view the interactive Tableau dashboard</a> 🔗  </p>
+<h1 id="trendora-rfm-customer-segmentation-analysis">🧩 Trendora RFM Customer Segmentation Analysis<a class="headerlink" href="#trendora-rfm-customer-segmentation-analysis" title="Permanent link">&para;</a></h1>
+<h2 id="project-overview">🛍️ Project Overview<a class="headerlink" href="#project-overview" title="Permanent link">&para;</a></h2>
+<p><strong>Trendora</strong> is an European online fashion retailer operating via e-commerce and mobile app channels.<br />
+The goal of this project is to perform <strong>RFM (Recency, Frequency, Monetary)</strong> analysis to segment customers based on their purchasing behaviors and help the marketing team design targeted retention and loyalty strategies.</p>
+<p>This project demonstrates my ability to:
+- Conduct <strong>data transformation and customer-level aggregation</strong> using SQL and Python<br />
+- Apply <strong>RFM segmentation</strong> to derive behavioral insights<br />
+- Visualize results and segment distribution using Tableau  </p>
+<hr />
+<h2 id="business-objective">🎯 Business Objective<a class="headerlink" href="#business-objective" title="Permanent link">&para;</a></h2>
+<p>The marketing department wanted to:
+- Identify <strong>high-value and at-risk customers</strong><br />
+- Support <strong>personalized marketing campaigns</strong> and <strong>retention strategies</strong><br />
+- Prioritize customer engagement based on behavioral scores  </p>
+<p><strong>Analytical Question:</strong>  </p>
+<blockquote>
+<p>How can we categorize Trendora’s customers by their purchasing behavior to optimize marketing actions?</p>
+</blockquote>
+<hr />
+<h2 id="problem-solving-framework-4w1h">🧭 Problem-Solving Framework (4W1H)<a class="headerlink" href="#problem-solving-framework-4w1h" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Question</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Who</strong></td>
+<td>The audience of this report are marketing and CRM managers at Trendora</td>
+</tr>
+<tr>
+<td><strong>What</strong></td>
+<td>What do they want to view in this report? Segmented customer groups to identify high-value customers, at-risk customers, and promising customers.</td>
+</tr>
+<tr>
+<td><strong>Why</strong></td>
+<td>Enable data-informed customer retention and improve marketing ROI</td>
+</tr>
+<tr>
+<td><strong>Where</strong></td>
+<td>Across Trendora’s e-commerce and mobile app channels in Europe</td>
+</tr>
+<tr>
+<td><strong>How</strong></td>
+<td>Extract and aggregate sales data with SQL, score customers with Python, visualize insights in PowerBI</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="data-source">🗂️ Data Source<a class="headerlink" href="#data-source" title="Permanent link">&para;</a></h2>
+<p>The dataset simulates an online retailer with multiple relational tables.<br />
+For this RFM analysis, the key tables used were:</p>
+<table>
+<thead>
+<tr>
+<th>Table</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>sales</strong></td>
+<td>Order-level data (sale_id, customer_id, sale_date, total_amount)</td>
+</tr>
+<tr>
+<td><strong>customers</strong></td>
+<td>Customer demographics (country, age_range, signup_date)</td>
+</tr>
+</tbody>
+</table>
+<hr />
 <h2 id="dashboard-snapshot">Dashboard Snapshot<a class="headerlink" href="#dashboard-snapshot" title="Permanent link">&para;</a></h2>
-<p><img alt="Sales Analysis Dashboard" src="../../img/Superstore_Sales_Dashboard.png" /></p>
+<p><img alt="RFM Analysis Dashboard" src="../../img/RFM.png" /></p>
 <hr />
 
 
