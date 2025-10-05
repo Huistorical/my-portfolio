@@ -12,10 +12,12 @@
 ##🗂️ Projects
 
 **Python Projects**  
+
 - [Project 1: Data Analysis Example](projects/python_project1.md)  
 - [Project 2: Predictive Modeling](projects/python_project2.md)  
 
 **Business Intelligence Projects**  
+
 - [Project 1: Customer Segmentation - RFM Analysis](projects/bi_project1.md)  
 - [Project 2: Sales Dashboard](projects/bi_project2.md)  
 

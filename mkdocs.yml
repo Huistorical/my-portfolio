@@ -1,5 +1,5 @@
 site_name: Hui's
-site_url: https://huistorical.github.io
+site_url: https://huistorical.github.io/my-portfolio/
 site_author: Hui
 site_description: Business Intelligence & Data Science Projects
 
@@ -17,11 +17,11 @@ nav:
   - Home: index.md
   - About: about.md
   - Python:
-      - Project 1: projects/python_project1.md
-      - Project 2: projects/python_project2.md
+      - Project 1 - Customer segmentation using Kmeans: projects/python_project1.md
+      - Project 2 - Housing price forecasting: projects/python_project2.md
   - Business Intelligence:
-      - Project 1: projects/bi_project1.md
-      - Project 2: projects/bi_project2.md
+      - Project 1 - Customer segmentation & RFM analysis: projects/bi_project1.md
+      - Project 2 - Sales dashboard: projects/bi_project2.md
   - Contact: contact.md
 
 markdown_extensions:
