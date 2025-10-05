@@ -1,6 +1,6 @@
 # About Me 
 
-Hi! I'm **Hui**, a finance and data enthusiast with a passion for uncovering insights hidden in data.  
+Hi! I'm **Hui**, a data enthusiast with a passion for uncovering insights hidden in data.  
 
 ## 🎓 Education 
 - MSc in Finance, [Stockholm School of Economics](https://www.hhs.se/)  
@@ -8,11 +8,11 @@ Hi! I'm **Hui**, a finance and data enthusiast with a passion for uncovering ins
 
 ## 🗂️ Projects
 
-🐾 **Python Projects**  
+**Python Projects**  
 - [Project 1: Data Analysis Example](projects/python_project1.md)  
 - [Project 2: Predictive Modeling](projects/python_project2.md)  
 
-📈 **Business Intelligence Projects**  
+**Business Intelligence Projects**  
 - [Project 1: Sales Dashboard](projects/bi_project1.md)  
 - [Project 2: Risk Analysis Dashboard](projects/bi_project2.md)  
 
@@ -27,9 +27,10 @@ Hi! I'm **Hui**, a finance and data enthusiast with a passion for uncovering ins
 
 ## 💡 Passion 
 - Data Science 🔍  
+- Business Intelligence 📊  
 - Risk Analysis ⚖️  
 - Financial Analysis 💰  
-- Business Intelligence 📊  
+
 
 ## 💌 [Let's Connect](contact.md) 
 Feel free to check my projects or reach out if you want to collaborate!

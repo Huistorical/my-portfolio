@@ -6,13 +6,12 @@ site_description: Business Intelligence & Data Science Projects
 theme:
   name: material
   palette:
-    scheme: default       
-    primary: blue-grey    
-    accent: teal          
+    primary: indigo
+    accent: indigo
+    language: en
   font:
-    text: "Roboto"
-    code: "Roboto Mono"
-
+    text: Roboto
+    code: Roboto Mono
 
 nav:
   - Home: index.md
