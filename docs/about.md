@@ -8,13 +8,15 @@ Hi! I'm **Hui**, a data enthusiast with a passion for uncovering insights hidden
 
 ## 🗂️ Projects
 
-**Python Projects**  
-- [Project 1: Data Analysis Example](projects/python_project1.md)  
+**Python ML Projects**  
+
+- [Project 1: Customer Segmentation using Kmeans](projects/python_project1.md)  
 - [Project 2: Predictive Modeling](projects/python_project2.md)  
 
 **Business Intelligence Projects**  
-- [Project 1: Sales Dashboard](projects/bi_project1.md)  
-- [Project 2: Risk Analysis Dashboard](projects/bi_project2.md)  
+
+- [Project 1: PowerBI Cusomer Segmentation using RFM Analysis Dashboard](projects/bi_project1.md)  
+- [Project 2: Tableau Sales Dashboard](projects/bi_project2.md)  
 
 ??? note "To be continued..."
     have a nice day :)!
