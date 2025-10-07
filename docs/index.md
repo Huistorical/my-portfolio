@@ -13,8 +13,8 @@
 
 **Python Projects**  
 
-- [Project 1: Data Analysis Example](projects/python_project1.md)  
-- [Project 2: Predictive Modeling](projects/python_project2.md)  
+- [Project 1: Customer Segmentation and Behavior Analysis using K-means Clustering](projects/python_project1.md)  
+- [Project 2: Predictive Modeling (to be added)](projects/python_project2.md)  
 
 **Business Intelligence Projects**  
 
