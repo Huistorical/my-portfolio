@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://huistorical.github.io/</loc>
+         <loc>https://huistorical.github.io/my-portfolio/</loc>
          <lastmod>2025-10-05</lastmod>
     </url>
     <url>
-         <loc>https://huistorical.github.io/about/</loc>
+         <loc>https://huistorical.github.io/my-portfolio/about/</loc>
          <lastmod>2025-10-05</lastmod>
     </url>
     <url>
-         <loc>https://huistorical.github.io/contact/</loc>
+         <loc>https://huistorical.github.io/my-portfolio/contact/</loc>
          <lastmod>2025-10-05</lastmod>
     </url>
     <url>
-         <loc>https://huistorical.github.io/projects/bi_project1/</loc>
+         <loc>https://huistorical.github.io/my-portfolio/projects/bi_project1/</loc>
          <lastmod>2025-10-05</lastmod>
     </url>
     <url>
-         <loc>https://huistorical.github.io/projects/bi_project2/</loc>
+         <loc>https://huistorical.github.io/my-portfolio/projects/bi_project2/</loc>
          <lastmod>2025-10-05</lastmod>
     </url>
     <url>
-         <loc>https://huistorical.github.io/projects/python_project1/</loc>
+         <loc>https://huistorical.github.io/my-portfolio/projects/python_project1/</loc>
          <lastmod>2025-10-05</lastmod>
     </url>
     <url>
-         <loc>https://huistorical.github.io/projects/python_project2/</loc>
+         <loc>https://huistorical.github.io/my-portfolio/projects/python_project2/</loc>
          <lastmod>2025-10-05</lastmod>
     </url>
 </urlset>

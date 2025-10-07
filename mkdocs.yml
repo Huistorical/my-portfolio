@@ -6,8 +6,8 @@ site_description: Business Intelligence & Data Science Projects
 theme:
   name: material
   palette:
-    primary: indigo
-    accent: indigo
+    primary: beige
+    accent: beige
     language: en
   font:
     text: Roboto

@@ -8,7 +8,7 @@ Hi! I'm **Hui**, a data enthusiast with a passion for uncovering insights hidden
 
 ## 🗂️ Projects
 
-**Python ML Projects**  
+**Python & Machine Learning Projects**  
 
 - [Project 1: Customer Segmentation using Kmeans](projects/python_project1.md)  
 - [Project 2: Predictive Modeling](projects/python_project2.md)  
@@ -23,15 +23,15 @@ Hi! I'm **Hui**, a data enthusiast with a passion for uncovering insights hidden
 
 
 ## 🛠️ Skills & Tools 
-- Programming & Data Analysis: Python 🐾, SQL  
-- Data Visualization: Tableau 📈, Power BI  
-- Analytics & Automation: Excel, Alteryx ✨  
+- Programming & Data Analysis: Python, SQL  
+- Data Visualization: Tableau, Power BI, Figma  
+- Analytics & Automation: Excel, Alteryx  
 
 ## 💡 Passion 
-- Data Science 🔍  
-- Business Intelligence 📊  
-- Risk Analysis ⚖️  
-- Financial Analysis 💰  
+- Data Science  
+- Business Intelligence  
+- Risk Analysis  
+- Financial Analysis   
 
 
 ## 💌 [Let's Connect](contact.md) 
