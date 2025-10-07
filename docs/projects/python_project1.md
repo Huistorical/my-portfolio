@@ -48,17 +48,6 @@ The insights are designed to support marketing and CRM teams in **personalized t
 
 ---
 
-## 🔍 Interactive Notebook Preview  
-
-Below you can view the live Jupyter Notebook version via **nbviewer**:
-
-<iframe 
-  src="[https://nbviewer.org/github/yourusername/customer-segmentation/blob/main/customer_segmentation.ipynb](https://github.com/Huistorical/Code/blob/main/rfm.ipynb)" 
-  width="100%" height="800px">
-</iframe>
-
----
-
 ## GitHub Repository  
 
 🔗 [View the full project on GitHub →](https://github.com/Huistorical/Code/blob/main/rfm.ipynb)
